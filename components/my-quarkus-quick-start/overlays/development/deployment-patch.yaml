@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rh-ee-mcombi-tenant/my-quarkus-quick-start/my-quarkus-quick-start@sha256:0d828ad06893f67e1f43267f24c0ce52ce86f90d7739463c45aa07b040228a2a
+      - image: quay.io/redhat-user-workloads/rh-ee-mcombi-tenant/my-quarkus-quick-start/my-quarkus-quick-start@sha256:6983f11c7ad1a349b6947a6ef68711488d79251df4204d2942cf67e10339f1a4
         name: my-java-quarkus
         resources: {}
 status: {}
