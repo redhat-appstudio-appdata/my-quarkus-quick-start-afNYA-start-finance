@@ -25,7 +25,7 @@ spec:
         app.kubernetes.io/instance: my-quarkus-quick-start
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rh-ee-mcombi-tenant/my-quarkus-quick-start/my-quarkus-quick-start@sha256:1a7ad97968507942c99aa939a7225bc24842cc881831baa471fb4f593f1ce952
+      - image: quay.io/redhat-user-workloads/rh-ee-mcombi-tenant/my-quarkus-quick-start/my-quarkus-quick-start@sha256:19cecee96c062048a4daf20f11b68bb8a3b282602258abd212b9c62b5b3cf37b
         name: my-java-quarkus
         ports:
         - containerPort: 8081
